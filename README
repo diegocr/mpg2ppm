@@ -1,0 +1,132 @@
+
+¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼
+¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼@@@@@¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼
+¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼@@¼¼@@@¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼
+¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼@@@¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼
+¼¼¼¼¼¼¼¼@@@¼@@@¼¼¼@@@@@@¼¼¼¼@@@@@@¼¼¼¼¼¼@@@¼¼@@@@@@¼¼¼@@@@@@¼¼@@@¼@@@¼¼¼¼¼¼¼¼¼
+¼¼¼¼¼¼¼¼@@@@@@@@¼¼@@¼¼@@@¼¼@@¼¼@@@¼¼¼¼¼@@@¼¼¼@@¼¼@@@¼¼@@¼¼@@@¼@@@@@@@@¼¼¼¼¼¼¼¼
+¼¼¼¼¼¼¼¼@@¼@¼@@@¼¼@@¼¼@@@¼¼@@¼¼@@@¼¼¼¼@@¼¼¼¼¼@@¼¼@@@¼¼@@¼¼@@@¼@@¼@¼@@@¼¼¼¼¼¼¼¼
+¼¼¼¼¼¼¼¼@@¼@¼@@@¼¼@@¼¼@@@¼¼@@¼¼@@@¼¼¼¼@@¼¼¼¼¼@@¼¼@@@¼¼@@¼¼@@@¼@@¼@¼@@@¼¼¼¼¼¼¼¼
+¼¼¼¼¼¼¼¼@@¼¼¼@@@¼¼@@¼¼@@@¼¼@@¼¼@@@¼¼¼@@¼¼¼¼¼¼@@¼¼@@@¼¼@@¼¼@@@¼@@¼¼¼@@@¼¼¼¼¼¼¼¼
+¼¼¼¼¼¼¼¼@@¼¼¼@@@¼¼@@@@@@¼¼¼¼@@@@@@¼¼@@¼¼¼¼¼¼¼@@@@@@¼¼¼@@@@@@¼¼@@¼¼¼@@@¼¼¼¼¼¼¼¼
+¼¼¼¼¼¼¼¼@@¼¼¼@@@¼¼@@¼¼¼¼¼¼¼¼¼¼¼@@@¼¼@@@@@@@¼¼@@¼¼¼¼¼¼¼@@¼¼¼¼¼¼@@¼¼¼@@@¼¼¼¼¼¼¼¼
+¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼@@¼¼¼¼¼¼¼¼¼¼¼@@@¼¼¼¼¼¼¼¼¼¼¼@@¼¼¼¼¼¼¼@@¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼
+¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼@@¼¼¼¼¼¼¼¼@@@@@¼¼¼¼¼¼¼¼¼¼¼¼@@¼¼¼¼¼¼¼@@¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼
+¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼
+
+
+                           (c) 2003 Diego Casorran
+                          =========================
+                               MPEG-2  Decoder
+                               
+                               
+                            Based on mpeg2decode
+                             Copyright (c) 1996 
+                        MPEG Software Simulation Group
+
+
+¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼
+
+
+
+MPEG-2  Video  is  a  generic method for compressed representation of video
+sequences  using  a  common  coding  syntax defined in the document ISO/IEC
+13818  Part  2  by the International Organization for Standardization (ISO)
+and  the  International Electrotechnical Commission (IEC), in collaboration
+with  the  International  Telecommunications  Union (ITU) as Recommendation
+H.262.  The MPEG-2 concept is similar to MPEG-1, but includes extensions to
+cover a wider range of applications.
+
+The  primary  application targeted during the MPEG-2 definition process was
+the  all-digital  transmission  of interlaced broadcast TV quality video at
+coded  bitrates  between  4 and 9 Mbit/sec.  However, the MPEG-2 syntax has
+been  found  to be efficient for other applications such as those at higher
+bit rates and sample rates (e.g.  HDTV).
+
+The  most significant enhancement over MPEG-1 is the addition of syntax for
+efficient  coding  of  interlaced  video (e.g.  16x8 block sizes for motion
+compensation,  field  dct  organization,  Dual  Prime  prediction,  et al).
+Several  other  more  subtle  enhancements  (e.g.  10-bit DCT DC precision,
+non-linear  macroblock  scale  quantizer,  intra  VLC tables, improved IDCT
+mismatch  control) were adopted which have a moderate improvement in coding
+efficiency....  even for progressive video sequences.
+
+Other  key  features of MPEG-2 are the scalable extensions which permit the
+division  of  a  continuous  video signal into two or more coded bitstreams
+representing  the  video  at  different  resolutions (spatial scalability),
+picture  quality  (SNR  scalability  and  data  partioning), or frame rates
+(temporal scalability).
+
+The  MPEG  Software  Simulation Group is currently developing MPEG software
+with  the  purpose of providing aid in understanding the various algorithms
+which  comprise  an encoder and decoder, and giving a sample implementation
+based  on  advanced  encoding  models.   The  MPEG-2 software project is an
+on-going  development.   Since  the  current version of the encoder already
+employs  a  reasonable  (and  the most popular) subset of the MPEG-2 signal
+coding  toolkit  (MPEG-1  and MPEG-2 Main Profile), and there appears to be
+sufficient public interest, we have decided to make a public release of the
+code.
+
+The  encoder  can also be used for generating good quality constant bitrate
+MPEG-1  sequences  and  is  (to our knowledge) the first publicly available
+encoder based on the relatively sophisticated TM5 coding model.
+
+
+mpg2ppm have been compiled and tested on the following platforms:
+
+ - SUN SPARCstation 10, SunOS 4.1.3, (gcc compiler)
+ - '386-PC, MSDOS 5.0, djgpp v1.11, gcc v2.5.7 and MS Visual C++ 4.0
+ - AmigaOS (using GeekGadgets/gcc 2.95.3)
+
+The  source code should compile without major modifications on other 32 bit
+systems  with  ANSI  C  compliant  compilers.   Systems  with  16 bit 'int'
+variables or segmented memory models are not supported.
+
+Please  report  any  modifications you had to apply in order to install the
+programs on your system to the address diegocr@users.sourceforge.net
+
+
+
+Step 1: edit Makefile
+---------------------
+
+You  may have to set CC to your C compiler and CFLAGS to the flags required
+by  the  compiler.   It  is  sufficient  to  set these variables in the top
+directory Makefile.  They are propagated to the individual Makefiles of the
+encoder  and  decoder.   Any  other  changes  have  to  be  applied  to the
+individual Makefiles, however.
+
+
+Step 2: edit src/config.h
+----------------------------------
+
+In  most  cases,  no  modification  should  be required.  If your C library
+doesn't  accept  "rb"  / "wb" parameters in fopen() (required to disable LF
+<->  CR/LF  conversion  on MSDOS systems), change the #defines RB and WB to
+"r" and "w".
+
+
+Step 3: make
+------------
+
+Type  'make' from the top directory.  On a PC with DJGPP installed you have
+to  enter  'make  pc'  in the individual source directories to produce .exe
+files.
+
+
+
+¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼¼
+
+
+The changes made to the original mpeg2decode source core are as follows:
+
+ - It extract to PPM format only
+ - Added methods to dump between frames/GOPs
+ - Rewrited the proccess_options procedure
+ - Removed the code to decode P & B frames (this speed up the program!)..
+ - Added functions imp() and getime()
+ - ...may others but I dont remember now ;)
+
+
+Thanks to Christian Effenberger for his help.
+
